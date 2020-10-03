@@ -1,6 +1,6 @@
 # image_picker_bloc
 
-A new Flutter project.
+Image upload feature using [bloc library](bloclibrary.dev)
 
 ## Getting Started
 
